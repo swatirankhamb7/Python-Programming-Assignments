@@ -1,0 +1,14 @@
+--------------------------------------------------------------------------------
+---------------------------------Marvellous Script ----------------------------
+--------------------------------------------------------------------------------
+Automation\DirectoryAutomationEmptyDeleteReportLogTimeStamp copy 3.py
+Automation\DirectoryAutomationEmptyDeleteReportLogTimeStamp copy 4.py
+Automation\DirectoryAutomationEmptyDeleteReportLogTimeStamp copy 5.py
+Automation\DirectoryAutomationEmptyDeleteReportLogTimeStamp copy 6.py
+Automation\DirectoryAutomationEmptyDeleteReportLogTimeStamp copy.py
+Automation\DirectoryAutomationEmptyDeleteReportLogTimeStamp.py
+--------------------------------------------------------------------------------
+Total Files are : 58
+Total Duplicate Files are : 6
+Total Files Deleteted : 6
+--------------------------------------------------------------------------------

@@ -1,0 +1,182 @@
+--------------------------------------------------------------------------------
+---------------------------------Marvellous Script ----------------------------
+--------------------------------------------------------------------------------
+File name : Automation\A.exe 
+CheckSum : d41d8cd98f00b204e9800998ecf8427e
+
+File name : Automation\AutomationScript1.py 
+CheckSum : 49c8566300e96c3f9006f42fc80ed352
+
+File name : Automation\CheckSumCalculate.py 
+CheckSum : ffe9f34533332cfb587ba0be77d1f83e
+
+File name : Automation\CheckSumCalculateDirectory.py 
+CheckSum : d8cb1e722e3cf11d129a7c644c98823d
+
+File name : Automation\CheckSumCalculateDirectoryStore.py 
+CheckSum : d137cfd3360b207b8d16221396bfff2e
+
+File name : Automation\CheckSumProject.py 
+CheckSum : 20112108fb083e76f51230ca3efe7134
+
+File name : Automation\CommandLine.py 
+CheckSum : fc9bffc9e158eaa925bb36e745c890db
+
+File name : Automation\CommandLine1.py 
+CheckSum : 56571d5f5fb47d5a93ed35bdc50a7609
+
+File name : Automation\CommandLine2.py 
+CheckSum : d4e50b3a8ad9bfb44160c5e68c5f13ea
+
+File name : Automation\CommandLine3.py 
+CheckSum : 8b99337b598e285ddde98932f9318a25
+
+File name : Automation\CommandLine4.py 
+CheckSum : 6814f580e5bea27ff96de867f2969753
+
+File name : Automation\CommandLine5.py 
+CheckSum : 1a5d921e97942664e2aa8b802a818dec
+
+File name : Automation\Demo.txt 
+CheckSum : 301357f432335b91c641ea87942f21bf
+
+File name : Automation\DirectoryAutomation1.py 
+CheckSum : f234815459b98c38bfbbf6ffd29fdd3e
+
+File name : Automation\DirectoryAutomation2.py 
+CheckSum : b57c22381b25fa483e2298bfc281d950
+
+File name : Automation\DirectoryAutomation3.py 
+CheckSum : 6e6eaf3745d6ba194e065077e5b6c947
+
+File name : Automation\DirectoryAutomationEmptyDelete.py 
+CheckSum : b2812524c11bb0958b41b7cfce6893a9
+
+File name : Automation\DirectoryAutomationEmptyDeleteReport.py 
+CheckSum : 4f94a2d5b6b80f2640025dd9e58151f7
+
+File name : Automation\DirectoryAutomationEmptyDeleteReportLog.py 
+CheckSum : 0bbc3d7e60b8ffb54fa179c8b81d3f7c
+
+File name : Automation\DirectoryAutomationEmptyDeleteReportLogTime.py 
+CheckSum : 409f17c49fe90bf596fc556ffdec5e31
+
+File name : Automation\DirectoryAutomationEmptyDeleteReportLogTimeStamp.py 
+CheckSum : c561a74bd39ebb72e46708bdc12ba653
+
+File name : Automation\DirectoryAutomationEmptyDeleteReportLogTimeStampSchedule.py 
+CheckSum : f53db0b6435c061e2b7e687527991c36
+
+File name : Automation\DirectoryScan1.py 
+CheckSum : a4e2c35d354c585aa5cd635f63a6763d
+
+File name : Automation\DirectoryScan2.py 
+CheckSum : 45fe7200816f61695e387e75db394d78
+
+File name : Automation\DirectoryScan3.py 
+CheckSum : bb21d786f81a1b00096e7b420cef453d
+
+File name : Automation\DirectoryScan4.py 
+CheckSum : 29a7164a938433d8296752d42f7c463e
+
+File name : Automation\Marvellos.log 
+CheckSum : 0b193b5be86c8b0343975626a265ce5a
+
+File name : Automation\Notes.txt 
+CheckSum : 7d6abccbae6aaa720f2e29aaa84c74bc
+
+File name : Automation\Scheduler1.py 
+CheckSum : 44c6da264692354e6df4f8112217ad21
+
+File name : Automation\Scheduler2.py 
+CheckSum : c8b2201bc84bd523fa99c9214b61fb6f
+
+File name : Automation\Scheduler3.py 
+CheckSum : 40a277f1134e6d9587bb3b741588905b
+
+File name : Automation\Scheduler4.py 
+CheckSum : 07a0ec702727ed1b283f38fa42ab398b
+
+File name : Automation\FileIo\B.exe 
+CheckSum : d41d8cd98f00b204e9800998ecf8427e
+
+File name : Automation\FileIo\C.exe 
+CheckSum : d41d8cd98f00b204e9800998ecf8427e
+
+File name : Automation\FileIo\DirectoryScan1.py 
+CheckSum : 4bf20ae62d563c06e198a4fd8d90b544
+
+File name : Automation\FileIo\FileIo1.py 
+CheckSum : 3cc46193206bb1ca78a14dd76ff5d885
+
+File name : Automation\FileIo\FileIoException.py 
+CheckSum : 806fefdc6e1c10bcee930cb95a193519
+
+File name : Automation\FileIo\FileIoExceptionAppend.py 
+CheckSum : 8e45a492db1400731ab9b4ee64574b8f
+
+File name : Automation\FileIo\FileIoExceptionRead.py 
+CheckSum : f8e26073e2704b59bb065486c6771a66
+
+File name : Automation\FileIo\FileIoExceptionReadSeek.py 
+CheckSum : 5505e9eec63dc69e443cdb4eb615796f
+
+File name : Automation\FileIo\FileIoExceptionReadSeekX.py 
+CheckSum : 01ca8b2382c8dbeea2ba159491d73118
+
+File name : Automation\FileIo\FileIoExceptionReadSeekXX.py 
+CheckSum : 1903b7f062219106ccc5bdb9f9c194da
+
+File name : Automation\FileIo\FileIoExceptionReadTell.py 
+CheckSum : 7311576de9ce772eb9af0a22e87ecb6a
+
+File name : Automation\FileIo\FileIoExceptionReadX.py 
+CheckSum : e54472000eee028f4ef080e39b001a55
+
+File name : Automation\FileIo\FileIoExceptionWrite.py 
+CheckSum : ab8048633e8e236d830f363e6050f30f
+
+File name : Automation\FileIo\FileIoExceptionWriteX.py 
+CheckSum : 2d84cbd3679a79ce5a14a11b39012128
+
+File name : Automation\FileIo\FileIoExceptionX.py 
+CheckSum : 08fe297dba00eadcb295843c36d44b3f
+
+File name : Automation\FileIo\FileIoExist.py 
+CheckSum : 0b27e1a7a3144ddd23e7d36b48999ee2
+
+File name : Automation\FileIo\FileIoFunctions.py 
+CheckSum : 8fc7ceea076aff87a9887140c7240f2a
+
+File name : Automation\FileIo\FileIoFunctionsX.py 
+CheckSum : 346034d305839cbd0bd2f5cd3e13cb54
+
+File name : Automation\FileIo\FileIoPath.py 
+CheckSum : 0b8ca6a65e8db1ccf0c944fc28771062
+
+File name : Automation\FileIo\FileIoPathChange.py 
+CheckSum : 35ff3f0720ecfa72b58f667c90701d42
+
+File name : Automation\FileIo\FileIoPathRemove.py 
+CheckSum : 336bac9314f9e2ee401aa150398711a0
+
+File name : Automation\FileIo\Hello.txt 
+CheckSum : 9172efa4d03ded0c9b9a8470e1265e63
+
+File name : Automation\Marvellous\D.exe 
+CheckSum : d41d8cd98f00b204e9800998ecf8427e
+
+File name : Automation\Marvellous\Notes.txt 
+CheckSum : 7d6abccbae6aaa720f2e29aaa84c74bc
+
+File name : Automation\Marvellous\Scheduler1 - Copy.py 
+CheckSum : 44c6da264692354e6df4f8112217ad21
+
+File name : Automation\Marvellous\Scheduler2 - Copy.py 
+CheckSum : c8b2201bc84bd523fa99c9214b61fb6f
+
+File name : Automation\Marvellous\Scheduler3 copy.py 
+CheckSum : 40a277f1134e6d9587bb3b741588905b
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
