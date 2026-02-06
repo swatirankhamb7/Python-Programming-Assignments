@@ -1,0 +1,62 @@
+--------------------------------------------------------------------------------
+---------------------------------Marvellous Script ----------------------------
+--------------------------------------------------------------------------------
+Sat Feb  7 02:09:39 2026   AutomationScript1.py  
+Sat Feb  7 02:09:39 2026   CheckSumCalculate.py  
+Sat Feb  7 02:09:39 2026   CheckSumCalculateDirectory.py  
+Sat Feb  7 02:09:39 2026   CheckSumCalculateDirectoryStore.py  
+Sat Feb  7 02:09:39 2026   CheckSumProject.py  
+Sat Feb  7 02:09:39 2026   CommandLine.py  
+Sat Feb  7 02:09:39 2026   CommandLine1.py  
+Sat Feb  7 02:09:39 2026   CommandLine2.py  
+Sat Feb  7 02:09:39 2026   CommandLine3.py  
+Sat Feb  7 02:09:39 2026   CommandLine4.py  
+Sat Feb  7 02:09:39 2026   CommandLine5.py  
+Sat Feb  7 02:09:39 2026   Demo.txt  
+Sat Feb  7 02:09:39 2026   DirectoryAutomation1.py  
+Sat Feb  7 02:09:39 2026   DirectoryAutomation2.py  
+Sat Feb  7 02:09:39 2026   DirectoryAutomation3.py  
+Sat Feb  7 02:09:39 2026   DirectoryAutomationEmptyDelete.py  
+Sat Feb  7 02:09:39 2026   DirectoryAutomationEmptyDeleteReport.py  
+Sat Feb  7 02:09:39 2026   DirectoryAutomationEmptyDeleteReportLog.py  
+Sat Feb  7 02:09:39 2026   DirectoryAutomationEmptyDeleteReportLogTime.py  
+Sat Feb  7 02:09:39 2026   DirectoryAutomationEmptyDeleteReportLogTimeStamp.py  
+Sat Feb  7 02:09:39 2026   DirectoryAutomationEmptyDeleteReportLogTimeStampSchedule.py  
+Sat Feb  7 02:09:39 2026   DirectoryScan1.py  
+Sat Feb  7 02:09:39 2026   DirectoryScan2.py  
+Sat Feb  7 02:09:39 2026   DirectoryScan3.py  
+Sat Feb  7 02:09:39 2026   DirectoryScan4.py  
+Sat Feb  7 02:09:39 2026   Marvellos.log  
+Sat Feb  7 02:09:39 2026   Notes.txt  
+Sat Feb  7 02:09:39 2026   Scheduler1.py  
+Sat Feb  7 02:09:39 2026   Scheduler2.py  
+Sat Feb  7 02:09:39 2026   Scheduler3.py  
+Sat Feb  7 02:09:39 2026   Scheduler4.py  
+Sat Feb  7 02:09:39 2026   DirectoryScan1.py  
+Sat Feb  7 02:09:39 2026   FileIo1.py  
+Sat Feb  7 02:09:39 2026   FileIoException.py  
+Sat Feb  7 02:09:39 2026   FileIoExceptionAppend.py  
+Sat Feb  7 02:09:39 2026   FileIoExceptionRead.py  
+Sat Feb  7 02:09:39 2026   FileIoExceptionReadSeek.py  
+Sat Feb  7 02:09:39 2026   FileIoExceptionReadSeekX.py  
+Sat Feb  7 02:09:39 2026   FileIoExceptionReadSeekXX.py  
+Sat Feb  7 02:09:39 2026   FileIoExceptionReadTell.py  
+Sat Feb  7 02:09:39 2026   FileIoExceptionReadX.py  
+Sat Feb  7 02:09:39 2026   FileIoExceptionWrite.py  
+Sat Feb  7 02:09:39 2026   FileIoExceptionWriteX.py  
+Sat Feb  7 02:09:39 2026   FileIoExceptionX.py  
+Sat Feb  7 02:09:39 2026   FileIoExist.py  
+Sat Feb  7 02:09:39 2026   FileIoFunctions.py  
+Sat Feb  7 02:09:39 2026   FileIoFunctionsX.py  
+Sat Feb  7 02:09:39 2026   FileIoPath.py  
+Sat Feb  7 02:09:39 2026   FileIoPathChange.py  
+Sat Feb  7 02:09:39 2026   FileIoPathRemove.py  
+Sat Feb  7 02:09:39 2026   Hello.txt  
+Sat Feb  7 02:09:39 2026   Notes.txt  
+Sat Feb  7 02:09:39 2026   Scheduler1 - Copy.py  
+Sat Feb  7 02:09:39 2026   Scheduler2 - Copy.py  
+Sat Feb  7 02:09:39 2026   Scheduler3 copy.py  
+--------------------------------------------------------------------------------
+These File are Sucessfully Copied from Automation to Demo
+Total File Copied : 55
+--------------------------------------------------------------------------------
