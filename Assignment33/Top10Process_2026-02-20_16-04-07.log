@@ -1,0 +1,100 @@
+PID : 2784
+name : MemCompression
+username : None
+status : running
+Thred_Count : 22 
+file_count : 0 
+start_time : 2026-02-20_14:11:01
+CPU % : 0.00
+Memory % : 8.82
+--------------------------------------------------------------------
+PID : 17724
+name : Code.exe
+username : SwatisThinkPad6\Swati Rankhamb
+status : running
+Thred_Count : 13 
+file_count : 15 
+start_time : 2026-02-20_14:32:27
+CPU % : 0.00
+Memory % : 6.60
+--------------------------------------------------------------------
+PID : 10180
+name : explorer.exe
+username : SwatisThinkPad6\Swati Rankhamb
+status : running
+Thred_Count : 100 
+file_count : 84 
+start_time : 2026-02-20_14:11:09
+CPU % : 0.20
+Memory % : 3.83
+--------------------------------------------------------------------
+PID : 16388
+name : Code.exe
+username : SwatisThinkPad6\Swati Rankhamb
+status : running
+Thred_Count : 20 
+file_count : 57 
+start_time : 2026-02-20_14:32:05
+CPU % : 0.00
+Memory % : 3.67
+--------------------------------------------------------------------
+PID : 18932
+name : Code.exe
+username : SwatisThinkPad6\Swati Rankhamb
+status : running
+Thred_Count : 28 
+file_count : 23 
+start_time : 2026-02-20_14:32:11
+CPU % : 0.00
+Memory % : 2.97
+--------------------------------------------------------------------
+PID : 9104
+name : chrome.exe
+username : SwatisThinkPad6\Swati Rankhamb
+status : running
+Thred_Count : 22 
+file_count : 53 
+start_time : 2026-02-20_14:57:35
+CPU % : 0.80
+Memory % : 2.79
+--------------------------------------------------------------------
+PID : 8796
+name : OneDrive.exe
+username : SwatisThinkPad6\Swati Rankhamb
+status : running
+Thred_Count : 37 
+file_count : 51 
+start_time : 2026-02-20_14:11:42
+CPU % : 0.30
+Memory % : 2.48
+--------------------------------------------------------------------
+PID : 14936
+name : WhatsApp.Root.exe
+username : SwatisThinkPad6\Swati Rankhamb
+status : running
+Thred_Count : 32 
+file_count : 119 
+start_time : 2026-02-20_14:12:44
+CPU % : 0.00
+Memory % : 2.47
+--------------------------------------------------------------------
+PID : 8340
+name : chrome.exe
+username : SwatisThinkPad6\Swati Rankhamb
+status : running
+Thred_Count : 45 
+file_count : 157 
+start_time : 2026-02-20_14:22:20
+CPU % : 0.00
+Memory % : 2.46
+--------------------------------------------------------------------
+PID : 15276
+name : WhatsApp.Root.exe
+username : SwatisThinkPad6\Swati Rankhamb
+status : running
+Thred_Count : 34 
+file_count : 118 
+start_time : 2026-02-20_14:12:37
+CPU % : 0.00
+Memory % : 2.37
+--------------------------------------------------------------------
