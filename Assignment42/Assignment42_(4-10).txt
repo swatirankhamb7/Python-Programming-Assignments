@@ -1,0 +1,35 @@
+
+
+4. Why is KNN called a lazy learner?
+Ans: KNN is simple Supervised Machine Learning Algorithm used for Both Classification and Regression.
+KNN widely used for Classification.
+
+KNN works by:
+1)Storing all Data points.
+2)calculate new point Distance with respect to this point using Euclidian Distance
+3)Do Classification or Regression Based on the Data
+
+In KNN,all the calculations happens while Predicting the ouput.While Traning no Calculations done
+thats why KNN is called Lazy Learner.
+
+5. What happens if K is too small ?
+Ans: K helps us to find the Output for the given data point. if K is too small then our model can be over fitted and
+It can also affect on Predictions.
+
+6. What happens if K is too large?
+Ans: If k is too large then our Model Can be Under Fitted and results are highly biased.
+
+7. Why does linear regression minimize squared error?
+Ans :  because It allows us to draw best fitted lines on the graph.
+
+
+8. What is the difference between MSE and R²?
+Ans : MSE Calculate Average of squared diference between Obsevered and Predicted Values.
+whereas R2 Explain How Much variation in Y  explained by x.
+
+9. Why R² cannot be greater than 1?
+Ans :Beacuse It Represents Proportion of variance explained by the model.
+
+
+10. Can KNN be used for regression?
+Ans : Yes  KNN also Used for Regression although it is used for Classification Purpose.
